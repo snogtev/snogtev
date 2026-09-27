@@ -11,7 +11,7 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-steppannogtev2023%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steppannogtev2023@gmail.com)
+[![Email](https://img.shields.io/badge/Email-steppannogtev2023%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stepannogtev2023@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@falmi2-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/falmi2)
 [![GitHub](https://img.shields.io/badge/GitHub-snogtev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snogtev)
 [![Location](https://img.shields.io/badge/Novosibirsk-Russia-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Novosibirsk)
